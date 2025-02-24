@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+    "version": "0.2",
+    "dictionaryDefinitions": [
+        {
+            "name": "project-words",
+            "path": "./project-words.txt",
+            "addWords": true
+        }
+    ],
+    "dictionaries": [
+        "project-words"
+    ],
+    "ignorePaths": [
+        "cspell.json",
+        "ads.txt",
+        "pnpm-lock.yaml",
+        "packages/vuetify/src/locale",
+        "packages/docs/src/pages/en/features/internationalization.md",
+        "spelling-errors.txt",
+    ]
+}
+
+// Listing files
+// cspell "**" --no-issues
+
+// Saving errors
+// cspell "**" > "spelling-errors.txt"
+
+// Ensuring no issues are found
+// cspell --words-only --unique "**" >> errors.txt
