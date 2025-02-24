@@ -18,6 +18,7 @@
         "packages/vuetify/src/locale",
         "packages/docs/src/pages/en/features/internationalization.md",
         "spelling-errors.txt",
+        "project-words.txt",
     ]
 }
 
