@@ -145,6 +145,7 @@ contenteditable
 contextmenu
 convallis
 convenire
+Corbett
 corporis
 corrupti
 cosmicjs
@@ -164,6 +165,7 @@ cursus
 Cursus
 Czarniecki
 dapibus
+Darabont
 dasharray
 dashoffset
 datatable
@@ -184,6 +186,7 @@ Deuchar
 Deutsch
 dialpad
 Dialpad
+Diaz
 Dico
 dico
 dictumst
@@ -213,6 +216,7 @@ Dulce
 Eaque
 eaque
 earum
+edgedriver
 egestas
 eget
 Eget
@@ -288,6 +292,7 @@ fugiat
 Fusce
 fusce
 Gdańsk
+geckodriver
 Gesturechange
 Gestureend
 Gesturestart
@@ -308,6 +313,7 @@ habitasse
 Hagia
 Halycon
 Handsen
+Harari
 Harum
 haspopup
 heatherleider
@@ -451,6 +457,8 @@ Mcbeal
 menandri
 menuable
 metus
+microfrontend
+Microfrontends
 minimises
 minmax
 Moai
@@ -539,6 +547,7 @@ pariatur
 pascalize
 pastebin
 Pastebin
+Patlani
 pede
 pellentesque
 Pellentesque
@@ -650,8 +659,10 @@ senectus
 sententiae
 sequi
 shadowroot
+Shawshank
 shortable
 shoutout
+Shubham
 Signup
 signup
 similique
@@ -669,6 +680,7 @@ sparkline
 Sparkline
 sparklines
 Sparklines
+Spatlani
 sprime
 srcs
 srcset
@@ -705,6 +717,7 @@ textareas
 Textareas
 Textdirection
 Thrs
+timepicker
 tincidunt
 Tinline
 toggleable
@@ -724,6 +737,7 @@ trendline
 Trendline
 triaging
 tristique
+tspc
 turpis
 ullam
 ullamco
@@ -737,6 +751,7 @@ Uncapitalize
 unde
 unhead
 Unibrow
+unitless
 unplugin
 unrefed
 upath
@@ -815,6 +830,7 @@ Yoones
 yooneskh
 Ytxt
 Yuchao
+Yuval
 yuwu
 YYYMMDD
 zeroskillz

@@ -12,11 +12,14 @@
         "project-words"
     ],
     "ignorePaths": [
-        "cspell.json",
         "ads.txt",
         "pnpm-lock.yaml",
-        "packages/vuetify/src/locale",
+        "packages/docs/src/data/team.json",
+        "packages/docs/src/pages/en/blog/state-of-the-union-2024-post-mortem.md",
         "packages/docs/src/pages/en/features/internationalization.md",
+        "packages/vuetify/src/locale",
+        /**/
+        "cspell.json",
         "spelling-errors.txt",
         "project-words.txt",
     ]
