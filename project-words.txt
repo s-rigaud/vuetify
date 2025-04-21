@@ -248,7 +248,6 @@ euismod
 eveniet
 everti
 evts
-exceprt
 Excepteur
 excepturi
 exercitationem
@@ -413,6 +412,7 @@ lectus
 legimus
 Leider
 leider
+licence
 liga
 linearization
 linecap
@@ -498,7 +498,7 @@ nobis
 nonummy
 noopener
 nopush
-noreferer
+normalise
 normalised
 nossr
 Nostra
@@ -521,6 +521,7 @@ Nuxt
 nuxt
 NuxtÔÇÖs
 obcaecati
+obligatorio
 Obrien
 occaecat
 odio
@@ -536,7 +537,6 @@ orci
 Orci
 orei
 ornare
-outnside
 ovalues
 pagedown
 pageup
@@ -607,7 +607,6 @@ Quisque
 quisque
 Rapa
 ratione
-reative
 Recents
 recusandae
 Reece
@@ -692,7 +691,6 @@ subcomponents
 SUBDERMATOGLYPHIC
 subheaders
 Subheaders
-succesfully
 Sudoko
 sunt
 Suricata
@@ -772,7 +770,6 @@ vehicula
 velit
 venenatis
 veniam
-verificaiton
 veritus
 vero
 Vestibulum
